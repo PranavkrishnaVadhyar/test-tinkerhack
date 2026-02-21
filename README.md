@@ -2,15 +2,15 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [Pranav] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [NaPranave]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Pranav] - [College]
+- Member 2: [krishna] - [College]
 
 ### Hosted Project Link
 [mention your project hosted link here]
